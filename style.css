@@ -59,6 +59,10 @@ img, iframe {
     width: 100%;
 }
 
+.img-gambar {
+    width: 50%;
+}
+
 /* Header */
 
 #header {
